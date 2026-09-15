@@ -1,0 +1,19 @@
+# Python environment artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# IDE settings
+.vscode/
+.idea/
+
+# GIS output bundles (keep raw source code clean)
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
+*.gpkg
